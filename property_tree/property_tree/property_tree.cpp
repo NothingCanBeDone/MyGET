@@ -2,7 +2,6 @@
 //
 
 #include "stdafx.h"
-#include <Windows.h>
 #include <iostream>
 #include <fstream>
 #include <boost/property_tree/ptree.hpp>
@@ -10,6 +9,7 @@
 #include <boost/locale.hpp>
 #include <shlwapi.h>
 #include <iosfwd>
+#include <Windows.h>
 
 #include "ToolbarRecord.h"
 
